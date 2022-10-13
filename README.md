@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis on identifying which individuals are most likely to have or use a bank account in Africa
+# Identifying which individuals are most likely to have or use a bank account in Africa
 
 
 
